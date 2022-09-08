@@ -36,3 +36,28 @@ Dayton International and Xenia/Greene County are the two closest public airports
 * America's Packard Museum - The Citizens Motorcar Co.
 
 [Link towards Aboutme](AboutMe.md)
+
+--
+
+# 4 urban areas that you would suggest somebody visit
+
+
+
+There are plenty of reasons to visit India – be it mountains or plains, beaches or backwaters, wildlife tours or adventure activities, secluded islands or bustling metropolitan, culinary delights or local drinks, spiritual holidays or romantic vacations. For those travellers who are visiting India for the first time, the tourist destinations in India offer every reason that makes them wish they stayed a little longer in India.
+
+
+
+| Name of a city | Important location to visit | Amount of time to spend visiting |
+
+--- | --- | --- |
+
+| Agra | Taj Mahal  | 5 Hours |
+
+| Jaipur | Hawa Mahal  | 4 Hours |
+
+| Varanasi|  Dashashwamedh Ghat| 2 Hours |
+
+| Ladakh | Nubra Valley| 7 Hours |
+
+
+
