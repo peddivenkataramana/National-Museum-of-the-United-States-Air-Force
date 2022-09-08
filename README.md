@@ -55,7 +55,13 @@ There are plenty of reasons to visit India – be it mountains or plains, beache
 | Ladakh | Nubra Valley| 7 Hours |
 
 ---
+# Pithy Quotes 
 
+> “Life is what happens when you're busy making other plans."  
+>> *John Lennon*
+
+> “Many of life’s failures are people who did not realize how close they were to success when they gave up.”
+>> *Thomas A. Edison*
 
 
 
