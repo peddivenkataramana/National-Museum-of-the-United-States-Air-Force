@@ -37,7 +37,7 @@ Dayton International and Xenia/Greene County are the two closest public airports
 
 [Link towards Aboutme](AboutMe.md)
 
---
+---
 
 # 4 urban areas that you would suggest somebody visit
 
@@ -56,13 +56,7 @@ There are plenty of reasons to visit India – be it mountains or plains, beache
 
 ---
 
-# Pithy Quotes 
 
-> “Life is what happens when you're busy making other plans."  
->> *John Lennon*
-
-> “Many of life’s failures are people who did not realize how close they were to success when they gave up.”
->> *Thomas A. Edison*
 
 
 
