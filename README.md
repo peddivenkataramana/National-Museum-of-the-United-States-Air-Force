@@ -63,6 +63,37 @@ There are plenty of reasons to visit India – be it mountains or plains, beache
 > “Many of life’s failures are people who did not realize how close they were to success when they gave up.”
 >> *Thomas A. Edison*
 
+---
+
+# Fencing Code
+
+Masking HTML and using SVG animation :
+<https://stackoverflow.com/questions/73642689/masking-html-and-using-svg-animation>
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+```
+
+Snippet Source link : <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
+
+
+
+
+
+
+
+
+
 
 
 
