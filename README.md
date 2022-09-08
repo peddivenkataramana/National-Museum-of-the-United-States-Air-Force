@@ -48,15 +48,10 @@ There are plenty of reasons to visit India – be it mountains or plains, beache
 
 
 | Name of a city | Important location to visit | Amount of time to spend visiting |
-
 --- | --- | --- |
-
 | Agra | Taj Mahal  | 5 Hours |
-
 | Jaipur | Hawa Mahal  | 4 Hours |
-
 | Varanasi|  Dashashwamedh Ghat| 2 Hours |
-
 | Ladakh | Nubra Valley| 7 Hours |
 
 
